@@ -1,6 +1,6 @@
 # Box-office-predictions
 
-Stat 486 Final project, Box office predictions based on the TMDb API data and "The Numbers" movie budget and revenue data.
+Stat 486 Final project, Box office predictions based on the TMDb API data and compared to "The Numbers" movie budget and revenue data.
 ### Question of Interest
 Can we predict the box office earnings for a movie based on the metadata (genre, budget, main cast, release date, producer, etc) and the critic reviews?
 
